@@ -118,6 +118,8 @@ Here is an example of how NFA should work.
 
 # Implementation, Testing and Submission
 
+1. Clone (or download) this repository.
+
 1. Modify the following files to implement your work.
 
     - src/main/antlr/JLexer.g4
