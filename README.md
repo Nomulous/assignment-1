@@ -1,5 +1,11 @@
 # Assignment 1
 
+<div style="border:thin solid red; padding: 20px; color: red">
+  <p style="margin:0; padding: 0">Your submission will be processed by source code analyzers
+  for plagiarism.  You <b>must</b> work on your own assignment
+  <b>individually</b>.  Sharing code is strictly prohibited.</p>
+</div>
+
 ## Part 1: Write a lexer grammar according to the given Java token types.
 
 Consider the following token types that apply to the Java programming langugage:
