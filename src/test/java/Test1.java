@@ -20,6 +20,8 @@ public class Test1 {
             "print",
             "(",
             ")",
+            "{",
+            "}",
             "}",
             "<EOF>"
         };
